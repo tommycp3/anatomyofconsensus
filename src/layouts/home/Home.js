@@ -6,6 +6,14 @@ class Home extends Component {
       <main className="container">
         <div className="pure-g">
           <div className="pure-u-1-1">
+            
+            
+            
+            
+            
+            
+            
+            
             <h1>Good to Go!</h1>
             <p>Your Truffle Box is installed and ready.</p>
             <h2>Smart Contract Authentication</h2>
